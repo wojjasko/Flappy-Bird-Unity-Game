@@ -1,24 +1,24 @@
 # 🦆 Flappy Bird Clone (Unity & C#)
-Zręcznościowa gra mobilno-desktopowa stworzona w silniku Unity. Projekt jest klonem popularnej gry Flappy Bird, wzbogaconym o mechanikę losowego generowania nagród oraz progresywny poziom trudności.
+An arcade mobile and desktop game created in the Unity engine. The project is a clone of the popular Flappy Bird game, enhanced with a random reward generation mechanic and a progressive difficulty level.
 
-## 🚀 Funkcjonalności
+## Funkcjonalności
 
-* **Dynamiczna Rozgrywka:** System sterowania oparty na fizyce (spacja/kliknięcie), symulujący lot postaci.
-* **Progresywna Trudność:** Prędkość przesuwania tła oraz przeszkód wzrasta wraz z czasem trwania sesji, zwiększając wyzwanie dla gracza.
-* **System Monet:** Losowe generowanie monet na różnych wysokościach, które przyznają dodatkowe punkty bonusowe do wyniku końcowego.
-* **Nieskończony Świat:** Proceduralne generowanie przeszkód oraz zapętlone tło (Parallax Effect), zapewniające ciągłość gry.
-* **Efekty Dźwiękowe:** Zaimplementowany system audio z możliwością wyciszenia z poziomu menu głównego.
+* **Dynamic Gameplay:** Physics-based control system (spacebar/click) simulating character flight.
+* **Progressive Difficulty:** The scrolling speed of the background and obstacles increases with session time, raising the challenge for the player.
+* **Coin System:** Random generation of coins at various heights, which award bonus points to the final score.
+* **Infinite World:** Procedural generation of obstacles and a looped background (Parallax Effect) ensuring continuous gameplay.
+* **Sound Effects:** Implemented audio system with a mute option from the main menu.
 
-## 🛠 Technologie
+## 🛠 Technologies
 
-* **Silnik:** Unity
-* **Język:** C# (Scripting)
-* **Fizyka:** Unity Physics (RigidBody2D, BoxColliders)
+* **Engine:** Unity
+* **Language:** C# (Scripting)
+* **Physics:** Unity Physics (RigidBody2D, BoxColliders)
 * **UI:** Unity UI System (Canvas, Dynamic Scoring)
 
-## 💻 Uruchomienie
+## Uruchomienie
 
-1.  Sklonuj repozytorium.
-2.  Otwórz folder projektu za pomocą **Unity Hub**.
-3.  Upewnij się, że masz zainstalowaną odpowiednią wersję edytora Unity.
-4.  Otwórz scenę główną (np. `MainScene`) i naciśnij przycisk **Play**.
+1.  Clone the repository.
+2.  Open the project folder using **Unity Hub**.
+3.  Ensure you have the appropriate Unity editor version installed.
+4.  Open the main scene (e.g., 'MainScene') and press the **Play** button.
